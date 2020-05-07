@@ -1,0 +1,21 @@
+
+Source
+https://www.youtube.com/watch?v=Rgpfk6eYxJA
+Install
+https://www.youtube.com/watch?v=RplXYjxgZbw
+
+---------------------------------------------------------------------------
+Step 1. 
+- Python 3.6
+https://www.python.org/downloads/windows/
+
+-Anaconda with python 3.6 or 3.5
+https://docs.anaconda.com/anaconda/install/windows/
+
+- instal cuda
+https://developer.nvidia.com/cuda-toolkit-archive
+
+- install cudnn
+https://developer.nvidia.com/rdp/cudnn-archive
+
+Step2. Configuration path
